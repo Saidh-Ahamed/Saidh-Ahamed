@@ -52,7 +52,6 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=framer" height="50" alt="Framer" />
   <img src="https://skillicons.dev/icons?i=blender" height="50" alt="Blender" />
   <img src="https://skillicons.dev/icons?i=unity" height="50" alt="Unity" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
